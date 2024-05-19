@@ -155,7 +155,7 @@ end
 
 endmodule
 */
-
+```
 **RTL Schematic**
 ![output_rtl](https://github.com/Gurumurthys1/Project-Based-Experiment/assets/163425568/b4c4498d-0fef-48d5-9b15-240ddf5ed7ff)
 
